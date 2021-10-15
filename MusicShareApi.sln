@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicShareApi", "MusicShareApi\MusicShareApi.csproj", "{EBD6A2B6-C8D4-4E3E-8E05-1154AF51C268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{5B50A1DC-8BE5-4528-8BA3-33D9D90B7E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD6A2B6-C8D4-4E3E-8E05-1154AF51C268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD6A2B6-C8D4-4E3E-8E05-1154AF51C268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD6A2B6-C8D4-4E3E-8E05-1154AF51C268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD6A2B6-C8D4-4E3E-8E05-1154AF51C268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B50A1DC-8BE5-4528-8BA3-33D9D90B7E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B50A1DC-8BE5-4528-8BA3-33D9D90B7E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B50A1DC-8BE5-4528-8BA3-33D9D90B7E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B50A1DC-8BE5-4528-8BA3-33D9D90B7E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
